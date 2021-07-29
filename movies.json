@@ -10,6 +10,7 @@
         "https://i.pinimg.com/originals/48/24/93/48249335e8c3852d59a5a27e054bb8d2.jpg"
     },
     {
+      "id": 1,
       "agrupacion": "solista",
       "genero": "pop",
       "artista": "Sia",
@@ -18,6 +19,7 @@
       "portada": "https://i1.sndcdn.com/artworks-000174898618-vsdrz9-t500x500.jpg"
     },
     {
+      "id": 1,
       "agrupacion": "banda",
       "genero": "rock",
       "artista": "Queen",
@@ -27,6 +29,7 @@
         "https://images-na.ssl-images-amazon.com/images/I/71X9RN0Y47L._SX425_.jpg"
     },
     {
+      "id": 1,
       "agrupacion": "solista",
       "genero": "pop",
       "artista": "Ariana Grande",
@@ -36,6 +39,7 @@
         "https://images-na.ssl-images-amazon.com/images/I/61zN9VJGynL._SL1200_.jpg"
     },
     {
+      "id": 1,
       "agrupacion": "banda",
       "genero": "pop",
       "artista": "NSYNC",
@@ -44,7 +48,7 @@
       "portada":
         "https://images-na.ssl-images-amazon.com/images/I/71s1PeC%2BuFL._SX425_.jpg"
     },
-    {
+    { "id": 1,
       "agrupacion": "banda",
       "genero": "pop",
       "artista": "Little Mix",
